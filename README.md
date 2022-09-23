@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 🔭 I’m currently working on **something about flutter**
+- 🔭 I’m currently working on **something about flutter.**
 
 - 🌱 I’m currently learning **Dart**
 
